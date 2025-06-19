@@ -21,8 +21,8 @@ It uses:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/excel-qa-gemini.git
-cd excel-qa-gemini
+git clone https://github.com/bharti085/QA_Bot_Gemini.git
+cd QA_Bot_Gemini
 ```
 
 ### 2. Install Dependencies
