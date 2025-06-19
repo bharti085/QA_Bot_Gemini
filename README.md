@@ -21,17 +21,17 @@ It allows you to upload one or more Excel/CSV documents and ask natural language
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
-git clone https://github.com/yourusername/excel-qa-gemini.git
-cd excel-qa-agent
+git clone https://github.com/bharti085/QA_Bot_Gemini.git
+cd QA_Bot_Gemini
 pip install -r requirements.txt
 ```
 
 ---
 
-## 🔑 Set Google Gemini API Key
+## Set Google Gemini API Key
 
 Create an environment variable in your terminal:
 
